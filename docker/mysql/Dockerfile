@@ -1,5 +1,0 @@
-FROM mysql:5.7
-
-ENV LC_ALL=C.UTF-8
-
-EXPOSE 3306
