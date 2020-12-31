@@ -9,7 +9,6 @@ from itemadapter import ItemAdapter
 from pymongo import MongoClient
 from scrapy.exceptions import DropItem
 
-
 class JungangnewscrawlingPipeline:
 
     def __init__(self):
